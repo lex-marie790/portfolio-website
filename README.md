@@ -10,11 +10,11 @@ You have the ability to write HTML, CSS, and responsive media queries.  You also
 
 _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 
-- [ ] Create a forked copy of this project.
-- [ ] Add PM as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch on the clone: `git checkout -b <firstName-lastName>`.
-- [ ] Implement the project on the `<firstName-lastName>` branch, committing changes regularly.
+- [X] Create a forked copy of this project.
+- [X] Add PM as collaborator on Github.
+- [X] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [X] Create a new branch on the clone: `git checkout -b <firstName-lastName>`.
+- [X] Implement the project on the `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: `git push origin <firstName-lastName>`.
 
 ### Follow these steps to download your template and start the project:
@@ -32,16 +32,16 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 
 ### Follow these steps for completing your project after your MVP is completed:
 
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
-- [ ] Add your Project Manager as a Reviewer on the Pull-request
+- [X] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
+- [X] Add your Project Manager as a Reviewer on the Pull-request
 - [ ] PM then will count the HW as done by merging the branch back into master.
 
 ## MVP Requirements
 
 - [ ] Study the code base and identify both responsive units and where media queries were used.  Take notes on anything that confuses you or interesting things you find.  Share this information in your standup meeting with your group
 - [ ] Customize the template to you 
-	- [ ] Update the title tag match your name
-	- [ ] Update the place holder content throughout the template to your information
+	- [X] Update the title tag match your name
+	- [X] Update the place holder content throughout the template to your information
 		* Some templates are much larger than others, you don't need to fill in every little div with information, just try to get the site representing you and your work 
 		* You can use sites like [https://www.pexels.com/](https://www.pexels.com/) for free images to fill in place holders
 		* Showcase projects you have worked on by providing some information and links to your git hub projects
