@@ -227,6 +227,7 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: calc(100% - 50px);
 		width: 1200px;
+		height: 100vh;
 	}
 
 		.container.medium {
@@ -1686,7 +1687,7 @@ input, select, textarea {
 		text-shadow: -1px -1px 0.5px rgba(0, 0, 0, 0.5);
 		overflow: hidden;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5), inset 0px 2px 1px 0px rgba(255, 255, 255, 0.75);
-		background-color: #43B3E0;
+		background-color: rgb(243, 7, 223);
 		padding: 1em 2.35em 1em 2.35em;
 		font-size: 1.1em;
 		max-width: 24em;
@@ -1697,7 +1698,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #43bff0;
+			background-color:  rgb(243, 7, 223);
 			color: #fff !important;
 		}
 
@@ -1706,7 +1707,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #3BA8D3;
+			background-color:  rgb(243, 7, 223);
 			top: 1px;
 		}
 
@@ -2107,6 +2108,7 @@ input, select, textarea {
 	#top {
 		padding: 10em 0 10em 0;
 		text-align: left;
+		height: 100vh;
 	}
 
 		#top .image {
@@ -2117,11 +2119,12 @@ input, select, textarea {
 		}
 
 			#top .image img {
-				border-radius: 100%;
+				border-radius: 50%;
 			}
 
 		#top h1 {
 			margin-top: 0.35em;
+			padding-top: 1.5em;
 		}
 
 		#top p {
@@ -2209,6 +2212,7 @@ input, select, textarea {
 
 			#top {
 				padding: 8em 0;
+				height: 100vh;
 			}
 
 				#top .image {
@@ -2228,6 +2232,7 @@ input, select, textarea {
 			#top {
 				text-align: center;
 				padding: 5em 0;
+				height: 100vh;
 			}
 
 				#top .image {
@@ -2407,6 +2412,7 @@ input, select, textarea {
 
 			#top {
 				padding: 3em 0;
+				height: 100vh;
 			}
 
 				#top .image {
